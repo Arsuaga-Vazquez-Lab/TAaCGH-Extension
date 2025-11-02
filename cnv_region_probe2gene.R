@@ -19,8 +19,8 @@ endBP      <- 42861888     # region end bp
 cghStart   <- 6            # first sample column in "_data_full.txt"
 
 # ---- File pathway, please modify as necessary ----
-dataRoot    <- path.expand("~/Desktop/P1BCB215/Data/horlings")
-resultsRoot <- path.expand("~/Desktop/P1BCB215/Results/horlings")
+dataRoot    <- path.expand("~/Desktop/P1BCB215/Data/Horlings")
+resultsRoot <- path.expand("~/Desktop/P1BCB215/Results/Horlings")
 dataPath    <- file.path(dataRoot, "horlings_data_full.txt")
 phenPath    <- file.path(dataRoot, "horlings_phen.txt")
 
