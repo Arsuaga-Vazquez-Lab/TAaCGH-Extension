@@ -12,7 +12,7 @@ SCAN-B (GSE96058) dataset. Normalized RNA-seq expression data and corresponding 
 
 File Structure and Functionality
 
-Files ending in _survival.R perform Kaplan–Meier survival analyses using either copy number or gene expression data. Adjusted p-values are calculated using the Benjamini–Hochberg (BH) false discovery rate correction. Files ending in _data_download.R are intended to retrieve official datasets from their original repositories (such as GEO, Mutation Explorer, or GDC) and/or prepare them for use in this study. The Data/(Horling;METABRIC;SCAN-B;TCGA) folder contains de-identified example datasets that demonstrate how to run the provided scripts without redistributing protected or large-scale data.
+Files ending in _survival.R perform Kaplan–Meier survival analyses using either copy number or gene expression data. Adjusted p-values are calculated using the Benjamini–Hochberg (BH) false discovery rate correction. Files ending in _data_download.R are intended to retrieve official datasets from their original repositories (such as GEO, Mutation Explorer, or GDC) and/or prepare them for use in this study. The Data/(Horlings;METABRIC;SCAN-B;TCGA) folder contains de-identified example datasets that demonstrate how to run the provided scripts without redistributing protected or large-scale data.
 
 
 
