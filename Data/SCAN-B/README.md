@@ -1,1 +1,1 @@
-
+SCAN-B (GSE96058). Normalized RNA-seq expression and clinical tables were obtained from NCBI GEO (accession GSE96058). We provide scripts to download the official files directly from GEO and to reproduce all preprocessing. We include only small, de-identified example subsets in this repository to keep the repo light and avoid duplicating large third-party datasets.
