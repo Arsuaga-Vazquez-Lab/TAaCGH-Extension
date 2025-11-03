@@ -1,0 +1,26 @@
+﻿Study ID,Patient ID,Sample ID,Age at Diagnosis,Pam50 + Claudin-low subtype,Cohort,ER status measured by IHC,ER Status,HER2 status measured by SNP6,HER2 Status,Overall Survival (Months),Overall Survival Status,PR Status,Relapse Free Status (Months),Relapse Free Status,Patient's Vital Status
+brca_metabric,S-0001,S-0001,48.87,LumB,1,Positve,Positive,NEUTRAL,Negative,163.7,1:DECEASED,Positive,153.3,1:Recurred,Died of Disease
+brca_metabric,S-0002,S-0002,76.97,LumB,1,Positve,Positive,NEUTRAL,Negative,41.36666667,1:DECEASED,Positive,18.8,1:Recurred,Died of Disease
+brca_metabric,S-0003,S-0003,56.45,LumB,1,Positve,Positive,LOSS,Negative,164.3333333,0:LIVING,Positive,164.3333333,0:Not Recurred,Living
+brca_metabric,S-0004,S-0004,70,Normal,1,Negative,Negative,NEUTRAL,Negative,22.4,1:DECEASED,Negative,11.9,1:Recurred,Died of Disease
+brca_metabric,S-0005,S-0005,86.41,LumB,1,Positve,Positive,GAIN,Negative,36.56666667,1:DECEASED,Negative,36.56666667,0:Not Recurred,Died of Other Causes
+brca_metabric,S-0006,S-0006,85.49,LumA,1,Positve,Positive,NEUTRAL,Negative,132.0333333,1:DECEASED,Positive,124.9666667,1:Recurred,Died of Disease
+brca_metabric,S-0007,S-0007,45.27,claudin-low,1,Negative,Negative,NEUTRAL,Negative,164.9,0:LIVING,Positive,107.4,1:Recurred,Living
+brca_metabric,S-0008,S-0008,83.02,LumA,1,Positve,Positive,GAIN,Positive,14.13333333,1:DECEASED,Positive,13.53333333,1:Recurred,Died of Other Causes
+brca_metabric,S-0009,S-0009,66.91,LumB,1,Positve,Positive,GAIN,Negative,160.3,0:LIVING,Positive,121.4333333,1:Recurred,Living
+brca_metabric,S-0010,S-0010,62.62,LumB,1,Positve,Positive,NEUTRAL,Negative,62.86666667,0:LIVING,Positive,62.86666667,0:Not Recurred,Living
+brca_metabric,S-0011,S-0011,45.43,LumB,1,Positve,Positive,NEUTRAL,Negative,140.8666667,0:LIVING,Positive,140.8666667,0:Not Recurred,Living
+brca_metabric,S-0012,S-0012,52.14,Basal,1,Negative,Negative,NEUTRAL,Negative,153.9666667,0:LIVING,Negative,153.9666667,0:Not Recurred,Living
+brca_metabric,S-0013,S-0013,61.49,LumB,1,Positve,Positive,NEUTRAL,Negative,157.4333333,0:LIVING,Positive,157.4333333,0:Not Recurred,Living
+brca_metabric,S-0014,S-0014,68.42,LumB,1,Positve,Positive,NEUTRAL,Negative,131,1:DECEASED,Negative,131,0:Not Recurred,Died of Other Causes
+brca_metabric,S-0015,S-0015,50.42,Her2,1,Negative,Negative,NEUTRAL,Negative,28.5,1:DECEASED,Negative,26.63333333,1:Recurred,Died of Disease
+brca_metabric,S-0016,S-0016,49.61,claudin-low,1,Positve,Positive,NEUTRAL,Negative,69.5,0:LIVING,Positive,69.5,0:Not Recurred,Living
+brca_metabric,S-0017,S-0017,43.55,LumB,1,Positve,Positive,NEUTRAL,Negative,153.2,0:LIVING,Positive,153.2,0:Not Recurred,Living
+brca_metabric,S-0018,S-0018,80.5,LumB,1,Positve,Positive,NEUTRAL,Negative,49.76666667,1:DECEASED,Positive,49.76666667,0:Not Recurred,Died of Other Causes
+brca_metabric,S-0019,S-0019,68.68,Basal,1,Negative,Negative,NEUTRAL,Negative,8.066666667,1:DECEASED,Negative,7.933333333,1:Recurred,Died of Disease
+brca_metabric,S-0020,S-0020,65.59,LumB,1,Positve,Positive,NEUTRAL,Negative,158.0333333,0:LIVING,Positive,158.0333333,0:Not Recurred,Living
+brca_metabric,S-0021,S-0021,82.53,Basal,1,Positve,Positive,GAIN,Negative,112.4,1:DECEASED,Positive,112.4,0:Not Recurred,Died of Other Causes
+brca_metabric,S-0022,S-0022,83.89,LumA,1,Positve,Positive,NEUTRAL,Negative,39.16666667,1:DECEASED,Negative,25.46666667,1:Recurred,Died of Disease
+brca_metabric,S-0023,S-0023,39.84,Basal,1,Negative,Negative,NEUTRAL,Negative,66.73333333,1:DECEASED,Negative,32.16666667,1:Recurred,Died of Disease
+brca_metabric,S-0024,S-0024,42.55,Normal,1,Positve,Positive,NEUTRAL,Negative,122.2666667,0:LIVING,Positive,122.2666667,0:Not Recurred,Living
+brca_metabric,S-0025,S-0025,60.07,LumA,1,Positve,Positive,NEUTRAL,Negative,2.4,0:LIVING,Negative,2.4,0:Not Recurred,Living
